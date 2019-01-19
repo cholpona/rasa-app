@@ -67,3 +67,9 @@ templates:
 
   utter_thanks:
     - text: "My pleasure."
+   
+   utter_send_hourly_rate_info
+    - text: "Hourly rate is 20-50$"
+    
+   utter_send_monthly_rate_info
+    - text: "Monthly rate for 1 developer 1700-4000$"
